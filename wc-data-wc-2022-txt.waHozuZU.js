@@ -1,0 +1,34 @@
+"use strict";(self.webpackChunkdraw=self.webpackChunkdraw||[]).push([[1811],{58915(a){a.exports=`Qatar - GROUP 0
+
+Brazil
+Belgium
+France
+Argentina
+England
+Spain
+Portugal
+Mexico
+Netherlands
+Denmark
+Germany
+Uruguay
+Switzerland
+United States
+Croatia
+Senegal
+Iran
+Japan
+Morocco
+Serbia
+Poland
+South Korea
+Tunisia
+Cameroon
+Canada
+Ecuador
+Saudi Arabia
+Ghana
+UEFA
+AFC/CONMEBOL
+CONCACAF/OFC
+`}}]);

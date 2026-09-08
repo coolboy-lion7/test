@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdraw=self.webpackChunkdraw||[]).push([[7594],{49215(_,e,r){r.d(e,{J:()=>s,_:()=>u});var s="gs__blue-group__my0np",u="gs__red-group__BAGwD"}}]);
