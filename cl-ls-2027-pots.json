@@ -1,0 +1,46 @@
+[
+  [
+    { "name": "Real Madrid", "country": "Spain" },
+    { "name": "Bayern München", "country": "Germany" },
+    { "name": "PSG", "country": "France" },
+    { "name": "Arsenal", "country": "England" },
+    { "name": "Liverpool", "country": "England" },
+    { "name": "Leverkusen", "country": "Germany" },
+    { "name": "Inter", "country": "Italy" },
+    { "name": "Barcelona", "country": "Spain" },
+    { "name": "Manchester City", "country": "England" }
+  ],
+  [
+    { "name": "Dortmund", "country": "Germany" },
+    { "name": "Atletico Madrid", "country": "Spain" },
+    { "name": "Roma", "country": "Italy" },
+    { "name": "Benfica", "country": "Portugal" },
+    { "name": "Milan", "country": "Italy" },
+    { "name": "Sporting", "country": "Portugal" },
+    { "name": "Manchester United", "country": "England" },
+    { "name": "Juventus", "country": "Italy" },
+    { "name": "Porto", "country": "Portugal" }
+  ],
+  [
+    { "name": "Real Betis", "country": "Spain" },
+    { "name": "PSV", "country": "Netherlands" },
+    { "name": "Club Brugge", "country": "Belgium" },
+    { "name": "Fenerbahce", "country": "Türkiye" },
+    { "name": "Chelsea", "country": "England" },
+    { "name": "Lille", "country": "France" },
+    { "name": "AZ Alkmaar", "country": "Netherlands" },
+    { "name": "Monaco", "country": "France" },
+    { "name": "Shakhtar Donetsk", "country": "Ukraine" }
+  ],
+  [
+    { "name": "Celtic", "country": "Scotland" },
+    { "name": "Ferencvaros", "country": "Hungary" },
+    { "name": "Copenhagen", "country": "Denmark" },
+    { "name": "Crvena Zvezda", "country": "Serbia" },
+    { "name": "Galatasaray", "country": "Türkiye" },
+    { "name": "Slavia Praha", "country": "Czechia" },
+    { "name": "Stuttgart", "country": "Germany" },
+    { "name": "Panathinaikos", "country": "Greece" },
+    { "name": "Como", "country": "Italy" }
+  ]
+]

@@ -1,0 +1,46 @@
+[
+  [
+    { "name": "Atalanta", "country": "Italy" },
+    { "name": "Napoli", "country": "Italy" },
+    { "name": "Olympiacos", "country": "Greece" },
+    { "name": "Freiburg", "country": "Germany" },
+    { "name": "Braga", "country": "Portugal" },
+    { "name": "Real Sociedad", "country": "Spain" },
+    { "name": "Lyon", "country": "France" },
+    { "name": "Viktoria Plzen", "country": "Czechia" },
+    { "name": "Bodø/Glimt", "country": "Norway" }
+  ],
+  [
+    { "name": "Leipzig", "country": "Germany" },
+    { "name": "Union Saint Gilloise", "country": "Belgium" },
+    { "name": "Dinamo Zagreb", "country": "Croatia" },
+    { "name": "Lazio", "country": "Italy" },
+    { "name": "Rennes", "country": "France" },
+    { "name": "Athletic Bilbao", "country": "Spain" },
+    { "name": "Slovan Bratislava", "country": "Slovakia" },
+    { "name": "PAOK", "country": "Greece" },
+    { "name": "Brighton", "country": "England" }
+  ],
+  [
+    { "name": "AEK Athens", "country": "Greece" },
+    { "name": "Jagiellonia", "country": "Poland" },
+    { "name": "Newcastle", "country": "England" },
+    { "name": "Legia Warszawa", "country": "Poland" },
+    { "name": "Lens", "country": "France" },
+    { "name": "Trabzonspor", "country": "Türkiye" },
+    { "name": "Besiktas", "country": "Türkiye" },
+    { "name": "Omonia Nicosia", "country": "Cyprus" },
+    { "name": "Young Boys", "country": "Switzerland" }
+  ],
+  [
+    { "name": "Levski Sofia", "country": "Bulgaria" },
+    { "name": "LASK", "country": "Austria" },
+    { "name": "PEC Zwolle", "country": "Netherlands" },
+    { "name": "RFS", "country": "Latvia" },
+    { "name": "Noah", "country": "Armenia" },
+    { "name": "Viking", "country": "Norway" },
+    { "name": "Petrocub Hincesti", "country": "Moldova" },
+    { "name": "Hapoel Tel Aviv", "country": "Israel" },
+    { "name": "Koper", "country": "Slovenia" }
+  ]
+]
