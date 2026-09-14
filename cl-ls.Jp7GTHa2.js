@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdraw=self.webpackChunkdraw||[]).push([[3144],{4936(e,t,u){var a=u(74848),n=u(96540),r=u(18409);let s=(0,n.memo)(function(e){return(0,a.jsx)(r.A,{...e,tournament:"cl"})});u.d(t,["default",0,s])}}]);
